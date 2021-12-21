@@ -68,8 +68,10 @@ footer img{
   justify-content: space-between;
   margin: 10px;
   padding: 10px;
+  font-family: 'oufit', sans-serif;
 }
 
+}
 .icon div{
   display: flex;
   align-items: center;
